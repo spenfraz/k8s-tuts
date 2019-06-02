@@ -1,6 +1,8 @@
 # k8s-tuts
 Practice lab environments and resources for CKA certification preparation.
 
+---> https://kubernetes.io/docs/home/
+
 ---> https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_V1.14.1.pdf
 
 __environments:__
