@@ -18,7 +18,8 @@ __courses:__
   (https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/)
   
   * (TODO) Kubernetes the Hard Way  
-  (https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)
+  (https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)  
+  (course notes: https://github.com/kylerisse/k8s-hard-way-course)
   
 __sites:__
   * http://www.kubernet.io/
