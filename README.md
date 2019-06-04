@@ -7,10 +7,13 @@ Practice lab environments and resources for CKA certification preparation.
 
 __environments:__
 - k8s-vagrant-standalone
-  * Kubeadm + Weave + Only Master Node + On Vagrant(Ubuntu + Docker)  
+  * Vagrant(Ubuntu + Docker) + Only Master Node + Kubeadm + Weave  
   (https://medium.com/@lizrice/kubernetes-in-vagrant-with-kubeadm-21979ded6c63)   
   (https://gist.githubusercontent.com/lizrice/69d3b28979391287176b3b7155a327b9/raw/e1700429b10da18a656cac32a5cf5629450737ce/Vagrantfile)
-    
+
+- k8s-vagrant-multinode
+  * Vagrant(Ubuntu + Docker + Ansible Local) + Multinode + Kubeadm + Calico  
+  (https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/)
 
 __courses:__
   * Getting Started With Kubernetes by Nigel Poulton  
