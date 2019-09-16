@@ -22,9 +22,17 @@ __courses:__
   * Certified Kubernetes Administrator (CKA) with Practice Tests by Mumshad Mannambeth  
   (https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/)
   
-  * (TODO) Kubernetes the Hard Way  
+  * (TODO) Linux Academy Kubernetes the Hard Way  
   (https://linuxacademy.com/linux/training/course/name/kubernetes-the-hard-way)  
   (course notes: https://github.com/kylerisse/k8s-hard-way-course)
   
+  * (TODO) Kelsey Hightower Kubernetes the Hard Way   
+  (https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  
 __sites:__
   * http://www.kubernet.io/
+
+__exercises:__
+  * (reference) https://kubernetes.io/docs/reference/glossary/?fundamental=true
+  * https://kubernetes.io/docs/tutorials/
+  * https://kubernetes.io/docs/tasks/
